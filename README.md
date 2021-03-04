@@ -1,2 +1,2 @@
-# react-styledcomponents-demo
+# react
 Created with CodeSandbox
